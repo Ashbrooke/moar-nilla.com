@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:blogger='http://schemas.google.com/blogger/2008' xmlns:georss='http://www.georss.org/georss' xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr='http://purl.org/syndication/thread/1.0'>
+<id>tag:blogger.com,1999:blog-6310240881695761403</id>
+<updated>2015-10-15T23:50:15.006-07:00</updated>
+<title type='text'>Moar Nilla Minecraft Server Blog</title>
+<subtitle type='html'>This blog will keep you up-to-date with the latest news from the Moar Nilla Minecraft Server. If you&#39;d like to come play connect with the IP: mc.moar-nilla.com</subtitle>
+<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://blog.moar-nilla.com/feeds/posts/default'/>
+<link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/6310240881695761403/posts/default'/>
+<link rel='alternate' type='text/html' href='http://blog.moar-nilla.com/'/><link rel='hub' href='http://pubsubhubbub.appspot.com/'/>
+<author>
+    <name>Axe Ashbrooke</name>
+    <email>noreply@blogger.com</email>
+    <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-slH1ouQ8uDk/AAAAAAAAAAI/AAAAAAAAAGw/FZvFiDJ1CJI/s512-c/photo.jpg'/>
+</author>
+<generator version='7.00' uri='http://www.blogger.com'>Blogger</generator>
+<openSearch:totalResults>1</openSearch:totalResults>
+<openSearch:startIndex>1</openSearch:startIndex>
+<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+<entry>
+    <id>tag:blogger.com,1999:blog-6310240881695761403.post-931543816450432610</id>
+    <published>2015-10-15T22:56:00.000-07:00</published><updated>2015-10-15T22:56:08.563-07:00</updated>
+    <title type='text'>I can has website?</title>
+    <content type='html'>SO I have been working on the website. As you can probably see... if this works and is posted on the website.&lt;br /&gt;&lt;br /&gt;Until I get some stuff organized I&#39;ll give you some pertinent information:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Connect to the server using: mc.moar-nilla.com&lt;/li&gt;&lt;li&gt;If that doesn&#39;t work, use the IP:&amp;nbsp;&lt;span style=&quot;background-color: white; color: #555555; font-family: Arial; font-size: 12.6px;&quot;&gt;75.127.11.42:25565&lt;/span&gt;&lt;/li&gt;&lt;li&gt;You can find a link to the Dynmap &lt;a href=&quot;http://mc.moar-nilla.com:8123/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;XOXO&lt;br /&gt;-Ash</content><link rel='replies' type='application/atom+xml' href='http://blog.moar-nilla.com/feeds/931543816450432610/comments/default' title='Post Comments'/>
+    <link rel='replies' type='text/html' href='http://blog.moar-nilla.com/2015/10/i-can-has-website.html#comment-form' title='0 Comments'/>
+    <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/6310240881695761403/posts/default/931543816450432610'/>
+    <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/6310240881695761403/posts/default/931543816450432610'/>
+    <link rel='alternate' type='text/html' href='http://blog.moar-nilla.com/2015/10/i-can-has-website.html' title='I can has website?'/>
+    <author><name>Axe Ashbrooke</name><uri>https://plus.google.com/102173354965344828742</uri>
+    <email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-slH1ouQ8uDk/AAAAAAAAAAI/AAAAAAAAAGw/FZvFiDJ1CJI/s512-c/photo.jpg'/>
+    </author><thr:total>0</thr:total>
+</entry></feed>
